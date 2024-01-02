@@ -234,7 +234,7 @@ Human psychology is shaped by a complex interplay of various influences, and und
 - **Attributions**: Attributions involve the explanations people give for the causes of events or behaviors, distinguishing between internal (personal factors) and external (situational factors) attributions.
 
 ## Specializations
-| Divisions of Psychology | According to APA | 
+| Divisions of Psychology | [According to APA](http://www.apa.org/about/division) | 
 | --- | --- | 
 | [General Psychology](https://www.apa.org/about/division/div1) | [Teaching of Psychology](https://www.apa.org/about/division/div2) | 
 | [Experimental Psychology and Cognitive Science ](https://www.apa.org/about/division/div3) | [Quantitative and Qualitative Methods](https://www.apa.org/about/division/div5) | 
@@ -263,5 +263,3 @@ Human psychology is shaped by a complex interplay of various influences, and und
 | [Psychological Study of Men and Masculinities ](https://www.apa.org/about/division/div51) | [International Psychology](https://www.apa.org/about/division/div52) | 
 | [Clinical Child and Adolescent Psychology ](https://www.apa.org/about/division/div53) | [Pediatric Psychology](https://www.apa.org/about/division/div54) | 
 | [Prescribing Psychology ](https://www.apa.org/about/division/div55) | [Trauma Psychology](https://www.apa.org/about/division/div56) | 
-
-Source: http://www.apa.org/about/division 
