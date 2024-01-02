@@ -6,32 +6,25 @@ Notes on the fundamentals of Psychology
    - **Key Figure:** Sigmund Freud
    - **Focus:** Emphasizes the role of unconscious processes and early childhood experiences in shaping behavior and personality.
    - **Methods:** Freudian psychoanalysis, dream analysis, and free association.
-
 2. **Humanistic Psychology:**
    - **Key Figures:** Abraham Maslow, Carl Rogers
    - **Focus:** Stresses individual potential for growth, self-actualization, and the importance of personal choice and responsibility.
    - **Methods:** Client-centered therapy, positive psychology.
-
 3. **Behavioral Psychology:**
    - **Key Figures:** B.F. Skinner, John B. Watson, Ivan Pavlov
    - **Focus:** Studies observable behaviors and the environmental factors that influence them, rejecting the emphasis on internal mental processes.
    - **Methods:** Operant conditioning, classical conditioning, behavior modification.
-
 4. **Cognitive Psychology:**
    - **Key Figures:** Ulric Neisser, George Miller
    - **Focus:** Examines mental processes such as perception, memory, problem-solving, and language, emphasizing the role of internal mental structures.
    - **Methods:** Experimental research, cognitive-behavioral therapy.
-
 5. **Biological Psychology:**
    - **Focus:** Explores the biological basis of behavior and mental processes, including the role of the brain, neurotransmitters, genetics, and hormones.
    - **Methods:** Brain imaging, genetic studies, physiological measurements.
-
 6. **Gestalt Psychology:**
    - **Key Figures:** Max Wertheimer, Wolfgang Köhler
    - **Focus:** Emphasizes the importance of holistic perception, asserting that people tend to perceive objects as organized wholes rather than isolated parts.
    - **Methods:** Experimental studies on perception and problem-solving.
-
-These branches and perspectives contribute to a comprehensive understanding of human behavior and mental processes, each offering unique insights and approaches to the study of psychology.
 
 ## Methods
 
@@ -74,8 +67,6 @@ Human psychology is shaped by a complex interplay of various influences, and und
    - **Political and Legal Systems:** Laws and policies shape the context in which individuals live and influence psychological well-being.
 
 ## Biology
-
-Certainly! Let's dive into the main components of each of the biological influences on psychology:
 
 1. **Nervous System:**
    - **Central Nervous System (CNS):**
@@ -168,7 +159,7 @@ Certainly! Let's dive into the main components of each of the biological influen
    - **Culture:**
      - Cultural norms, values, and practices shape cognitive, socioemotional, and physical development.
 
-## Environment
+## Systemic Factors
 
 1. **Education:**
    - *Cognitive Development:* Education is a fundamental factor in cognitive development. Access to quality education provides individuals with the knowledge and skills needed for critical thinking, problem-solving, and decision-making.
@@ -195,4 +186,46 @@ Certainly! Let's dive into the main components of each of the biological influen
      - *Food Insecurity:* Lack of access to nutritious food can lead to physical and mental health issues, impacting behavior.
      - *Malnutrition:* Poor nutrition, whether due to lack of access or poor food choices, can hinder overall development.
     
-    
+## Personality
+
+Certainly! Personality is a complex and multifaceted construct, and various psychological perspectives offer insights into understanding it. Here's an overview of key psychological perspectives on personality, including self-concept, self-esteem, psychodynamic, humanistic, social cognitive, trait approaches, and the influence of biology:
+
+1. **Self-Concept and Self-Esteem:**
+   - **Self-Concept:** The self-concept refers to an individual's perception of themselves, including their beliefs, values, abilities, and roles in different contexts.
+     - *Influence on Personality:* How individuals see themselves shapes their behaviors, choices, and interactions with others.
+   - **Self-Esteem:** Self-esteem involves the overall evaluation and subjective feelings of worth that individuals have about themselves.
+     - *Influence on Personality:* High self-esteem is associated with confidence, resilience, and positive social interactions, while low self-esteem may contribute to anxiety and low motivation.
+2. **Psychodynamic Perspective:**
+   - Emphasizes the role of unconscious processes and unresolved conflicts in shaping personality.
+   - *Defense Mechanisms:* Mechanisms like repression, projection, and displacement help individuals cope with anxiety.
+3. **Humanistic Perspective:**
+   - *Self-Actualization:* The innate drive to realize one's full potential.
+4. **Social Cognitive Perspective:**
+   - *Observational Learning:* Individuals learn by observing and imitating others.
+   - *Reciprocal Determinism:* Interaction between personal factors, behavior, and the environment influences personality.
+5. **Trait Approaches:**
+   - *Trait Theory:* Personality is composed of stable and enduring traits.
+   - *Big Five Traits:* Openness, Conscientiousness, Extraversion, Agreeableness, and Neuroticism.
+6. **Personality Assessment:**
+   - *Objective Tests:* Standardized self-report measures (e.g., MMPI, NEO-PI).
+   - *Projective Tests:* Ambiguous stimuli elicit responses that reveal unconscious processes (e.g., Rorschach Inkblot Test).
+7. **Observational Methods:**
+   - *Behavioral Observations:* Directly observing and recording behavior in natural or controlled settings.
+   - **Interviews:**
+     - *Structured Interviews:* Pre-determined questions.
+     - *Unstructured Interviews:* Open-ended questions.
+8. **Biological Influences on Personality:**
+   - **Genetics:**
+   - **Brain Structure and Neurotransmitters:**
+   - **Hormones:**
+
+## Social Psychology
+
+- **Social Cognition**: This involves the mental processes related to perceiving, interpreting, and understanding information about oneself and others in a social context, encompassing processes like perception, attention, memory, and decision-making.
+- **Stereotypes, Prejudice, and Discrimination**: Stereotypes are generalized beliefs about the characteristics of social groups, while prejudice is a positive or negative attitude toward a group, and discrimination involves unjust or prejudicial treatment based on group membership.
+- **Implicit and Explicit Bias**: Implicit bias refers to unconscious attitudes or stereotypes that influence behavior, while explicit bias involves conscious beliefs and attitudes that individuals are aware of and can express openly.
+- **Attitudes**: Attitudes are evaluations or feelings toward a person, idea, situation, or object, which can be positive, negative, or neutral. Subjective construal involves interpreting information subjectively based on attitudes and personal experiences.
+- **Obedience**: Obedience is the tendency to comply with instructions or orders from authority figures, as demonstrated in studies like Milgram's obedience experiments.
+- **Conformity**: Conformity is the tendency to adjust behavior or opinions to align with those of a group, often due to social pressure, as observed in Asch's conformity experiments.
+- **Cognitive Dissonance**: Cognitive dissonance arises when individuals experience discomfort due to conflicting beliefs or attitudes, leading them to resolve the conflict through various means.
+- **Attributions**: Attributions involve the explanations people give for the causes of events or behaviors, distinguishing between internal (personal factors) and external (situational factors) attributions.
