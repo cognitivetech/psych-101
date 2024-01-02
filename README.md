@@ -1,5 +1,4 @@
-# psychology-100
-Notes on the fundamentals of Psychology
+# Fundamentals of Psychology
 
 ## Contents
 * [Approach](#approach)
