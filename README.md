@@ -1,6 +1,17 @@
 # psychology-100
 Notes on the fundamentals of Psychology
 
+## Contents
+* [Approach](#approach)
+* [Influence](#influence)
+* [Biology](#biology)
+* [Behavior](#behavior)
+* [Development](#development)
+* [Systemic Factors](#systemic-factors)
+* [Personality](#personality)
+* [Social Psychology](#social-psychology)
+* [Specializations](#specializations)
+
 ## Approach
 1. **Psychodynamic Psychology:**
    - **Key Figure:** Sigmund Freud
@@ -221,3 +232,35 @@ Human psychology is shaped by a complex interplay of various influences, and und
 - **Conformity**: Conformity is the tendency to adjust behavior or opinions to align with those of a group, often due to social pressure, as observed in Asch's conformity experiments.
 - **Cognitive Dissonance**: Cognitive dissonance arises when individuals experience discomfort due to conflicting beliefs or attitudes, leading them to resolve the conflict through various means.
 - **Attributions**: Attributions involve the explanations people give for the causes of events or behaviors, distinguishing between internal (personal factors) and external (situational factors) attributions.
+
+## Specializations
+| # | Name | # | Name | 
+| --- | --- | --- | --- | 
+| 1 | Society for General Psychology | 2 | Society for the Teaching of Psychology | 
+| 3 | Society for Experimental Psychology and Cognitive Science  | 5 | Quantitative and Qualitative Methods | 
+| 6 | Society for Behavioral Neuroscience and Comparative Psychology  | 7 | Developmental Psychology | 
+| 8 | Society for Personality and Social Psychology  | 9 | Society for the Psychological Study of Social Issues (SPSSI) | 
+| 10 | Society for the Psychology of Aesthetics, Creativity and the Arts  | 12 | Society of Clinical Psychology | 
+| 13 | Society of Consulting Psychology  | 14 | Society for Industrial and Organizational Psychology| 
+| 15 | Educational Psychology  | 16 | School Psychology| 
+| 17 | Society of Counseling Psychology  | 18 | Psychologists in Public Service | 
+| 19 | Society for Military Psychology  | 20 | Adult Development and Aging | 
+| 21 | Applied Experimental and Engineering Psychology  | 22 | Rehabilitation Psychology | 
+| 23 | Consumer Psychology  | 24 | Society for Theoretical and Philosophical Psychology | 
+| 25 | Behavior Analysis  | 26 | Society for the History of Psychology | 
+| 27 | Society for Community Research and Action: Division of Community Psychology  | 28 | Society for Psychopharmacology and Substance Use | 
+| 29 | Society for the Advancement of Psychotherapy  | 30 | Society of Psychological Hypnosis | 
+| 31 | State, Provincial and Territorial Psychological Association Affairs  | 32 | Society for Humanistic Psychology | 
+| 33 | Intellectual and Developmental Disabilities/Autism Spectrum Disorder  | 34 | Society for Environmental, Population and Conservation Psychology | 
+| 35 | Society for the Psychology of Women  | 36 | Society for the Psychology of Religion and Spirituality | 
+| 37 | Society for Child and Family Policy and Practice  | 38 | Society for Health Psychology | 
+| 39 | Society for Psychoanalysis and Psychoanalytic Psychology  | 40 | Society for Clinical Neuropsychology | 
+| 41 | American Psychology-Law Society  | 42 | Psychologists in Independent Practice | 
+| 43 | Society for Couple and Family Psychology  | 44 | Society for the Psychology of Sexual Orientation and Gender Diversity | 
+| 45 | Society for the Psychological Study of Culture, Ethnicity and Race  | 46 | Society for Media Psychology and Technology | 
+| 47 | Society for Sport, Exercise and Performance Psychology  | 48 | Society for the Study of Peace, Conflict and Violence: Peace Psychology Division | 
+| 49 | Society of Group Psychology and Group Psychotherapy  | 50 | Society of Addiction Psychology | 
+| 51 | Society for the Psychological Study of Men and Masculinities  | 52 | International Psychology | 
+| 53 | Society of Clinical Child and Adolescent Psychology  | 54 | Society of Pediatric Psychology | 
+| 55 | Society for Prescribing Psychology  | 56 | Trauma Psychology | 
+Source: http://www.apa.org/about/division 
