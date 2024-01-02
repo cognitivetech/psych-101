@@ -268,7 +268,7 @@ Human psychology is shaped by a complex interplay of various influences, and und
 ## Employment
 **Psychology Bachelor's Degree: Selected Workforce Occupations**
 
-_Related to Children_
+**Related to Children**
 - Assistant youth coordinator
 - Behavior analyst
 - Career counselor
@@ -280,7 +280,7 @@ _Related to Children_
 - Residential youth counselor
 - Youth minister
 
-_Related to Communications/Writing_
+**Related to Communications/Writing**
 - Film researcher/copywriter
 - Historical research assistant
 - Media buyer
@@ -291,7 +291,7 @@ _Related to Communications/Writing_
 - Radio/TV research assistant
 - Technical writer
 
-_Related to Government/Public Service_
+**Related to Government/Public Service**
 - Congressional aide
 - Intelligence officer
 - Lobbying organizer
@@ -303,7 +303,7 @@ _Related to Government/Public Service_
 - Nursing home administrator
 - Program manager
 
-_Related to Management_
+**Related to Management**
 - Administrative assistant
 - Advertising agent
 - Advertising trainee
@@ -316,7 +316,7 @@ _Related to Management_
 - Store manager
 - Warehouse manager
 
-_Related to Data Management/Research_
+**Related to Data Management/Research**
 - Energy researcher
 - Director of fundraising
 - Financial researcher
@@ -328,7 +328,7 @@ _Related to Data Management/Research_
 - Statistical assistant
 - Urban planning research assistant
 
-_Related to the Military_
+**Related to the Military**
 - Veterans’ advisor
 - Administrative assistant
 - Advertising agent
@@ -342,7 +342,7 @@ _Related to the Military_
 - Store manager
 - Warehouse manager
 
-_Related to Criminal Populations_
+**Related to Criminal Populations**
 - Corrections officer
 - Crime-prevention coordinator
 - Juvenile probation officer
@@ -360,7 +360,7 @@ _Related to Criminal Populations_
 - Volunteer coordinator
 - Work activity program director
 
-_Related to Human Services_
+**Related to Human Services**
 - Camp staff director
 - Community organizer
 - Community recreation worker
@@ -371,7 +371,7 @@ _Related to Human Services_
 - Volunteer coordinator
 - Work activity program director
 
-_Related to Human Resources_
+**Related to Human Resources**
 - Affirmative action representative
 - Employee counselor
 - Employee relations assistant
@@ -382,14 +382,14 @@ _Related to Human Resources_
 - Personnel worker/administrator
 - Staff trainer and developer
 
-_Related to Education_
+**Related to Education**
 - Driving instructor
 - Educational coordinator
 - Private tutor
 - Secondary school teacher
 - Teacher
 
-_Related to Customer Service_
+**Related to Customer Service**
 - Airline reservations clerk
 - Bank manager
 - Claims specialist
