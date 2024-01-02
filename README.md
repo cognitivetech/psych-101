@@ -234,33 +234,34 @@ Human psychology is shaped by a complex interplay of various influences, and und
 - **Attributions**: Attributions involve the explanations people give for the causes of events or behaviors, distinguishing between internal (personal factors) and external (situational factors) attributions.
 
 ## Specializations
-| # | Name | # | Name | 
-| --- | --- | --- | --- | 
-| 1 | Society for General Psychology | 2 | Society for the Teaching of Psychology | 
-| 3 | Society for Experimental Psychology and Cognitive Science  | 5 | Quantitative and Qualitative Methods | 
-| 6 | Society for Behavioral Neuroscience and Comparative Psychology  | 7 | Developmental Psychology | 
-| 8 | Society for Personality and Social Psychology  | 9 | Society for the Psychological Study of Social Issues (SPSSI) | 
-| 10 | Society for the Psychology of Aesthetics, Creativity and the Arts  | 12 | Society of Clinical Psychology | 
-| 13 | Society of Consulting Psychology  | 14 | Society for Industrial and Organizational Psychology| 
-| 15 | Educational Psychology  | 16 | School Psychology| 
-| 17 | Society of Counseling Psychology  | 18 | Psychologists in Public Service | 
-| 19 | Society for Military Psychology  | 20 | Adult Development and Aging | 
-| 21 | Applied Experimental and Engineering Psychology  | 22 | Rehabilitation Psychology | 
-| 23 | Consumer Psychology  | 24 | Society for Theoretical and Philosophical Psychology | 
-| 25 | Behavior Analysis  | 26 | Society for the History of Psychology | 
-| 27 | Society for Community Research and Action: Division of Community Psychology  | 28 | Society for Psychopharmacology and Substance Use | 
-| 29 | Society for the Advancement of Psychotherapy  | 30 | Society of Psychological Hypnosis | 
-| 31 | State, Provincial and Territorial Psychological Association Affairs  | 32 | Society for Humanistic Psychology | 
-| 33 | Intellectual and Developmental Disabilities/Autism Spectrum Disorder  | 34 | Society for Environmental, Population and Conservation Psychology | 
-| 35 | Society for the Psychology of Women  | 36 | Society for the Psychology of Religion and Spirituality | 
-| 37 | Society for Child and Family Policy and Practice  | 38 | Society for Health Psychology | 
-| 39 | Society for Psychoanalysis and Psychoanalytic Psychology  | 40 | Society for Clinical Neuropsychology | 
-| 41 | American Psychology-Law Society  | 42 | Psychologists in Independent Practice | 
-| 43 | Society for Couple and Family Psychology  | 44 | Society for the Psychology of Sexual Orientation and Gender Diversity | 
-| 45 | Society for the Psychological Study of Culture, Ethnicity and Race  | 46 | Society for Media Psychology and Technology | 
-| 47 | Society for Sport, Exercise and Performance Psychology  | 48 | Society for the Study of Peace, Conflict and Violence: Peace Psychology Division | 
-| 49 | Society of Group Psychology and Group Psychotherapy  | 50 | Society of Addiction Psychology | 
-| 51 | Society for the Psychological Study of Men and Masculinities  | 52 | International Psychology | 
-| 53 | Society of Clinical Child and Adolescent Psychology  | 54 | Society of Pediatric Psychology | 
-| 55 | Society for Prescribing Psychology  | 56 | Trauma Psychology | 
+| Divisions of Psychology | According to APA | 
+| --- | --- | 
+| [General Psychology](https://www.apa.org/about/division/div1) | [Teaching of Psychology](https://www.apa.org/about/division/div2) | 
+| [Experimental Psychology and Cognitive Science ](https://www.apa.org/about/division/div3) | [Quantitative and Qualitative Methods](https://www.apa.org/about/division/div5) | 
+| [Behavioral Neuroscience and Comparative Psychology ](https://www.apa.org/about/division/div6) | [Developmental Psychology](https://www.apa.org/about/division/div7) | 
+| [Personality and Social Psychology ](https://www.apa.org/about/division/div8) | [Psychological Study of Social Issues (SPSSI)](https://www.apa.org/about/division/div9) | 
+| [Psychology of Aesthetics, Creativity and the Arts ](https://www.apa.org/about/division/div10) | [Clinical Psychology](https://www.apa.org/about/division/div12) | 
+| [Consulting Psychology](https://www.apa.org/about/division/div13) | [Industrial and Organizational Psychology](https://www.apa.org/about/division/div14) | 
+| [Educational Psychology ](https://www.apa.org/about/division/div15) | [School Psychology](https://www.apa.org/about/division/div16) |
+| [Counseling Psychology ](https://www.apa.org/about/division/div17) | [Psychologists in Public Service](https://www.apa.org/about/division/div18) | 
+| [Military Psychology ](https://www.apa.org/about/division/div19) | [Adult Development and Aging](https://www.apa.org/about/division/div20) | 
+| [Applied Experimental and Engineering Psychology ](https://www.apa.org/about/division/div21) | [Rehabilitation Psychology](https://www.apa.org/about/division/div22) | 
+| [Consumer Psychology ](https://www.apa.org/about/division/div23) | [Theoretical and Philosophical Psychology](https://www.apa.org/about/division/div24) | 
+| [Behavior Analysis ](https://www.apa.org/about/division/div25) | [History of Psychology](https://www.apa.org/about/division/div26) | 
+| [Community Research and Action: Division of Community Psychology ](https://www.apa.org/about/division/div27) | [Psychopharmacology and Substance Use](https://www.apa.org/about/division/div28) | 
+| [Advancement of Psychotherapy ](https://www.apa.org/about/division/div29) | [Psychological Hypnosis](https://www.apa.org/about/division/div30) | 
+| [State, Provincial and Territorial Psychological Association Affairs ](https://www.apa.org/about/division/div31) | [Humanistic Psychology](https://www.apa.org/about/division/div32) | 
+| [Intellectual and Developmental Disabilities/Autism Spectrum Disorder ](https://www.apa.org/about/division/div33) | [Environmental, Population and Conservation Psychology](https://www.apa.org/about/division/div34) | 
+| [Psychology of Women ](https://www.apa.org/about/division/div35) | [Psychology of Religion and Spirituality](https://www.apa.org/about/division/div36) | 
+| [Child and Family Policy and Practice ](https://www.apa.org/about/division/div37) | [Health Psychology](https://www.apa.org/about/division/div38) | 
+| [Psychoanalysis and Psychoanalytic Psychology ](https://www.apa.org/about/division/div39) | [Clinical Neuropsychology](https://www.apa.org/about/division/div40) | 
+| [American Psychology-Law Society ](https://www.apa.org/about/division/div41) | [Psychologists in Independent Practice](https://www.apa.org/about/division/div42) | 
+| [Couple and Family Psychology ](https://www.apa.org/about/division/div43) | [Psychology of Sexual Orientation and Gender Diversity](https://www.apa.org/about/division/div44) | 
+| [Psychological Study of Culture, Ethnicity and Race ](https://www.apa.org/about/division/div45) | [Media Psychology and Technology](https://www.apa.org/about/division/div46) | 
+| [Sport, Exercise and Performance Psychology ](https://www.apa.org/about/division/div47) | [Study of Peace, Conflict and Violence: Peace Psychology Division](https://www.apa.org/about/division/div48) | 
+| [Group Psychology and Group Psychotherapy ](https://www.apa.org/about/division/div49) | [Addiction Psychology](https://www.apa.org/about/division/div50) | 
+| [Psychological Study of Men and Masculinities ](https://www.apa.org/about/division/div51) | [International Psychology](https://www.apa.org/about/division/div52) | 
+| [Clinical Child and Adolescent Psychology ](https://www.apa.org/about/division/div53) | [Pediatric Psychology](https://www.apa.org/about/division/div54) | 
+| [Prescribing Psychology ](https://www.apa.org/about/division/div55) | [Trauma Psychology](https://www.apa.org/about/division/div56) | 
+
 Source: http://www.apa.org/about/division 
