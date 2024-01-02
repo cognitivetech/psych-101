@@ -11,6 +11,7 @@ Notes on the fundamentals of Psychology
 * [Personality](#personality)
 * [Social Psychology](#social-psychology)
 * [Specializations](#specializations)
+* [Employment](#employment)
 
 ## Approach
 1. **Psychodynamic Psychology:**
@@ -263,3 +264,173 @@ Human psychology is shaped by a complex interplay of various influences, and und
 | [Psychological Study of Men and Masculinities ](https://www.apa.org/about/division/div51) | [International Psychology](https://www.apa.org/about/division/div52) | 
 | [Clinical Child and Adolescent Psychology ](https://www.apa.org/about/division/div53) | [Pediatric Psychology](https://www.apa.org/about/division/div54) | 
 | [Prescribing Psychology ](https://www.apa.org/about/division/div55) | [Trauma Psychology](https://www.apa.org/about/division/div56) | 
+
+## Employment
+**Psychology Bachelor's Degree: Selected Workforce Occupations**
+
+_Related to Children_
+- Assistant youth coordinator
+- Behavior analyst
+- Career counselor
+- Career planning and placement advisor
+- Child-care worker
+- Child-protection worker
+- Day care—center supervisor
+- Foster home parent
+- Residential youth counselor
+- Youth minister
+
+_Related to Communications/Writing_
+- Film researcher/copywriter
+- Historical research assistant
+- Media buyer
+- Newspaper reporter
+- Public affairs coordinator
+- Public information officer
+- Public relations specialist
+- Radio/TV research assistant
+- Technical writer
+
+_Related to Government/Public Service_
+- Congressional aide
+- Intelligence officer
+- Lobbying organizer
+- Political campaign worker
+- Director of volunteer services
+- Fast-food restaurant manager
+- Hotel management
+- Intellectual disability unit manager
+- Nursing home administrator
+- Program manager
+
+_Related to Management_
+- Administrative assistant
+- Advertising agent
+- Advertising trainee
+- Events coordinator
+- Management trainee
+- Marketing representative
+- Marketing researcher
+- Office manager
+- Small business owner
+- Store manager
+- Warehouse manager
+
+_Related to Data Management/Research_
+- Energy researcher
+- Director of fundraising
+- Financial researcher
+- Laboratory assistant
+- Property management
+- Publications researcher
+- Research assistant
+- Statistical reports compiler
+- Statistical assistant
+- Urban planning research assistant
+
+_Related to the Military_
+- Veterans’ advisor
+- Administrative assistant
+- Advertising agent
+- Advertising trainee
+- Events coordinator
+- Management trainee
+- Marketing representative
+- Marketing researcher
+- Office manager
+- Small business owner
+- Store manager
+- Warehouse manager
+
+_Related to Criminal Populations_
+- Corrections officer
+- Crime-prevention coordinator
+- Juvenile probation officer
+- Law enforcement officer
+- Parole officer
+- Probation officer
+- Security officer
+- Camp staff director
+- Community organizer
+- Community recreation worker
+- Community relations officer
+- Neighborhood outreach worker
+- Parks and recreation director
+- Task force coordinator
+- Volunteer coordinator
+- Work activity program director
+
+_Related to Human Services_
+- Camp staff director
+- Community organizer
+- Community recreation worker
+- Community relations officer
+- Neighborhood outreach worker
+- Parks and recreation director
+- Task force coordinator
+- Volunteer coordinator
+- Work activity program director
+
+_Related to Human Resources_
+- Affirmative action representative
+- Employee counselor
+- Employee relations assistant
+- Human resources director
+- Human resources recruiter
+- Job analyst
+- Occupational analyst
+- Personnel worker/administrator
+- Staff trainer and developer
+
+_Related to Education_
+- Driving instructor
+- Educational coordinator
+- Private tutor
+- Secondary school teacher
+- Teacher
+
+_Related to Customer Service_
+- Airline reservations clerk
+- Bank manager
+- Claims specialist
+- Customer relations agent
+- Customer service representative
+- Hospital patient service representative
+- Insurance agent
+- Insurance claims/underwriter
+- Loan officer
+- Sales representative
+
+**Employment Opportunities for Master's Degree Graduates**
+
+**In Higher Education**
+- Community college teacher
+- Four-year college adjunct teacher
+- Academic adviser or academic recruiter
+- Career counselor
+- Rehabilitation counselor
+
+**In Government-Sponsored Human Services**
+- Vocational rehabilitation specialist
+- Substance abuse counselor
+- Human resource manager
+- Parole officer
+
+**In Clinical Contexts**
+- Behavioral counselor
+- Health-care coordinator
+- Mental health technician
+- Mental health therapist
+- Rehabilitation specialist
+- Group home supervisor
+- Child-protection specialist
+- Child-care program manager
+
+**In Business Contexts**
+- Human resource manager
+- Employee developer
+- Advertising and marketing specialist
+- Public relations specialist
+- Project manager
+- Sales representative
+- Store manager
