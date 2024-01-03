@@ -1,16 +1,24 @@
-# Fundamentals of Psychology
+# The Field of Psychology
 
 ## Contents
+* [Domain](#domain)
 * [Approach](#approach)
-* [Influence](#influence)
+* [Influences upon](#influences-upon)
 * [Biology](#biology)
 * [Behavior](#behavior)
 * [Development](#development)
 * [Systemic Factors](#systemic-factors)
-* [Personality](#personality)
+* [Psychology of Personality](#psychology-of-personality)
 * [Social Psychology](#social-psychology)
 * [Specializations](#specializations)
 * [Employment](#employment)
+
+## Domain
+1. **Biological Domain:** This domain focuses on the study of biological factors that influence behavior and mental processes. It includes research on genetics, neuroanatomy, physiology, and pharmacology.
+2. **Cognitive Domain:** The cognitive domain investigates mental processes such as perception, attention, memory, language, problem-solving, and decision-making.
+3. **Developmental Domain:** This domain examines the psychological and physical changes that occur throughout the human lifespan, from infancy to old age. It includes research on cognitive, social, emotional, and moral development.
+4. **Social and Personality Domain:** The social and personality domain explores how individuals think about themselves and others, as well as their interactions with other people. It includes research on personality traits, interpersonal relationships, group dynamics, and social influence.
+5. **Mental and Physical Health Domain:** This domain focuses on understanding mental health disorders and promoting positive mental and physical health. It includes research on diagnosis, treatment, and prevention of various mental and physical health conditions.
 
 ## Approach
 1. **Psychodynamic Psychology:**
@@ -32,10 +40,6 @@
 5. **Biological Psychology:**
    - **Focus:** Explores the biological basis of behavior and mental processes, including the role of the brain, neurotransmitters, genetics, and hormones.
    - **Methods:** Brain imaging, genetic studies, physiological measurements.
-6. **Gestalt Psychology:**
-   - **Key Figures:** Max Wertheimer, Wolfgang Köhler
-   - **Focus:** Emphasizes the importance of holistic perception, asserting that people tend to perceive objects as organized wholes rather than isolated parts.
-   - **Methods:** Experimental studies on perception and problem-solving.
 
 ## Methods
 
@@ -56,7 +60,7 @@
    - **Guidelines:** Informed consent, confidentiality, debriefing, protection from harm, voluntary participation.
    - **Institutional Review Board (IRB):** Many institutions have ethical review boards that evaluate and approve research proposals to ensure they meet ethical standards.
 
-## Influence
+## Influences Upon
 
 Human psychology is shaped by a complex interplay of various influences, and understanding these factors is essential for comprehending human behavior. 
 
@@ -191,7 +195,7 @@ Human psychology is shaped by a complex interplay of various influences, and und
    - Lack of access to nutritious food can lead to physical and mental health issues, impacting behavior.
    - Poor nutrition, whether due to lack of access or poor food choices, can hinder overall development.
     
-## Personality
+## Psychology of Personality
 
 1. **Self-Concept and Self-Esteem:**
    - **Self-Concept:** The self-concept refers to an individual's perception of themselves, including their beliefs, values, abilities, and roles in different contexts.
