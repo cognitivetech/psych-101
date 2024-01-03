@@ -13,7 +13,10 @@
 * [Specializations](#specializations)
 * [Employment](#employment)
 
-**See Also**: [Academic Writing](writing.md)
+**See Also**:
+- [Academic Writing](writing.md)
+- [Research](research.md)
+- [Biology](biology.md)
 
 ## Domain
 1. **Biological Domain:** This domain focuses on the study of biological factors that influence behavior and mental processes. It includes research on genetics, neuroanatomy, physiology, and pharmacology.
