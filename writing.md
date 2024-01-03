@@ -6,6 +6,8 @@
 - [Reading Strategies](#reading-strategies)
 - [Writing Process](#writing-process)
 - [Integrating Sources](#integrating-sources)
+- [APA Writing Format](#apa-writing-format)
+  - [APA Citations](#apa-citations)
 
 ## Rhetorical Reading and Writing
 Rhetorical reading and writing involve the examination and use of language with a focus on persuasion, communication effectiveness, and the art of expression. These concepts are deeply rooted in rhetoric, the art of using language to communicate effectively and persuasively. Here's a brief overview of both rhetorical reading and writing:
