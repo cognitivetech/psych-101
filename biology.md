@@ -1,9 +1,23 @@
 # Biology
 
-Sources:
-- GPT-3.5
-- Mistral-7B-Instruct-v0.2
-- [Psychology In Your Life](https://www.amazon.com/Psychology-Your-Life-Sarah-Grison/dp/039387754X/?&tag=cognitivetech-20)
+## Contents
+- [Nervous System](#nervous-system)
+- [Three Phases of Neural Communication](#three-phases-of-neural-communication)
+- [Neurotransmitter Functions](#neurotransmitter-functions)
+- [Drugs and Neurotransmitters](#drugs-and-neurotransmitters)
+- [Major regions of the brain](#major-regions-of-the-brain)
+- [Modern Brain Research](#modern-brain-research)
+- [Cerebral Cortex](#cerebral-cortex)
+- [Pre-frontal Cortex](#pre-frontal-cortex)
+- [Hemispheric Function](#hemispheric-function)
+  - [Left Hemisphere](#left-hemisphere)
+  - [Right Hemisphere](#right-hemisphere)
+- [Peripheral Nervous System](#peripheral-nervous-system)
+- [Endocrine System](#endocrine-system)
+- [Genetics](#genetics)
+- [Neuroplasticity](#neuroplasticity)
+- [Sources](#sources)
+
 
 ## Nervous System
 **The Nervous System's Three Functions**
@@ -496,3 +510,7 @@ Neuroplasticity, a fundamental characteristic of the brain, describes its dynami
 4. **Neural Pruning:** 
    - During neural development, overabundant connections form among neurons. Subsequently, life experiences help "prune" some of these connections to strengthen the rest, making the brain more efficient. This process occurs mainly during childhood.
 
+## Sources
+- GPT-3.5
+- Mistral-7B-Instruct-v0.2
+- [Psychology In Your Life](https://www.amazon.com/Psychology-Your-Life-Sarah-Grison/dp/039387754X/?&tag=cognitivetech-20)
