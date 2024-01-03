@@ -199,56 +199,71 @@ In both cases, the term "rhetorical" emphasizes the intentional and strategic us
 
 ## APA Writing Format
 
-The American Psychological Association (APA) format is a widely used style for writing and formatting academic papers, especially in the social sciences. APA provides guidelines for various elements of a research paper, including formatting, citations, and references. Here's an overview of key aspects of APA format:
+source: https://www.apa.org/ed/precollege/psn/2020/09/apa-style-student-papers
 
-1. **General Formatting:**
-   - **Page Layout:**
-     - Use 1-inch margins on all sides of the paper.
-     - Use a clear, legible font (e.g., Times New Roman) in 12-point size.
-     - Double-space the entire paper, including the title page, abstract, main text, and references.
-   - **Title Page:**
-     - Include the title of the paper, author's name, and institutional affiliation.
-     - The title should be centered in the upper half of the page.
-   - **Running Head:**
-     - Include a running head (a shortened version of the paper's title) in the header of every page.
-     - The running head is aligned to the left, and the page number is aligned to the right.
-2. **Sections of the Paper:**
-   - **Title Page:**
-     - Title of the paper, author's name, and institutional affiliation.
-   - **Abstract:**
-     - Brief summary of the paper (usually around 150-250 words).
-     - The abstract is placed on a separate page after the title page.
-   - **Main Body:**
-     - Introduction, Method, Results, Discussion, and other relevant sections.
-     - Use clear headings and subheadings to organize the content.
-   - **References:**
-     - List all sources cited in the paper.
-     - Alphabetical order by the author's last name.
-3. **Citations:**
-   - **In-text Citations:**
-     - Author's last name and the year of publication (Smith, 2020).
-     - Page numbers for direct quotes (Smith, 2020, p. 45).
-     - For works with multiple authors, use "et al." after the first author's name for subsequent citations (Smith et al., 2020).
-   - **References:**
-     - Author's name, publication year, title of the work, and source information.
-     - Follow a specific format for different types of sources (books, articles, websites, etc.).
-4. **Tables and Figures:**
-   - **Table Format:**
-     - Numbered and titled above the table.
-     - Include notes below the table for additional information.
-   - **Figure Format:**
-     - Numbered and titled below the figure.
-     - Include notes below the figure for additional information.
-5. **Additional Guidelines:**
-   - **Quotations:**
-     - Use double quotation marks for short quotes and block quotes for longer passages.
-     - Maintain original formatting for block quotes.
-   - **Footnotes and Endnotes:**
-     - Avoid using footnotes for citation purposes.
-     - Use footnotes sparingly for additional explanations or content.
-   - **Reference Page:**
-     - List all sources cited in the paper in alphabetical order.
-     - Follow a specific format for each type of source (book, journal article, etc.).
+The provided text outlines guidelines for the basic setup of a paper in APA (American Psychological Association) style. The instructions cover various aspects, including margins, font, line spacing, paragraph alignment, page numbers, and title page setup. Here is a summary:
+
+1. **Basic Setup:**
+   - Apply these guidelines to the entire paper.
+   - Seventh edition APA Style is designed for modern word-processing programs.
+   - Most default settings in programs like Academic Writer, Microsoft Word, and Google Docs comply with APA Style.
+   - Some adjustments may be needed before starting to write.
+2. **Margins:**
+   - Use 1-inch margins on all sides of the page.
+3. **Font:**
+   - Use a legible font; default font is acceptable.
+   - Acceptable fonts include Calibri, Arial, Times New Roman, and Georgia.
+4. **Line Spacing:**
+   - Double-space the entire paper, including the title page, block quotations, and the reference list.
+5. **Paragraph Alignment and Indentation:**
+   - Align all paragraphs to the left margin.
+   - Indent the first line of every paragraph by 0.5 inches.
+6. **Page Numbers:**
+   - Place a page number in the top right corner of every page header, starting with page number 1.
+   - Use automatic page-numbering functions; do not type page numbers manually.
+7. **Title Page Setup:**
+   - Includes paper title, author names, affiliations, course details, instructor name, assignment due date, and page number.
+   - Format the byline based on the number of authors.
+   - Academic affiliations include the department and university name, separated by a comma.
+8. **Title Page Line Spacing:**
+   - Double-space the entire title page
+9. **Title Page Alignment:**
+   - Center all title page elements except the right-aligned page number.
+10. **Title Page Font:**
+    - Use the same font and font size as the rest of the paper.
+    - Bold the paper title.
+11. **Text Setup:**
+    - Repeat the paper title at the top of the first page of text.
+    - Use descriptive headings to identify sections.
+12. **Text Line Spacing and Alignment:**
+    - Double-space all text.
+    - Center the paper title.
+    - Indent the first line of paragraphs by 0.5 inches.
+13. **Headings Format:**
+    - Bold all headings.
+    - Italicize Level 3 and Level 5 headings.
+    - Follow specific alignment and indentation guidelines for different heading levels.
+14. **Tables and Figures Setup:**
+    - Include tables and figures only if needed.
+    - Follow specific guidelines for table and figure elements, line spacing, alignment, and font.
+15. **Placement of Tables and Figures:**
+    - Options for placement include embedding in the text or placing them on separate pages.
+    - Call out tables and figures in the text before embedding them.
+16. **Reference List Setup:**
+    - Consists of the "References" section label and an alphabetical list of references.
+    - Use a hanging indent for all entries.
+17. **Reference List Line Spacing, Alignment, and Font:**
+    - Double-space the entire reference list.
+    - Center the "References" label.
+    - Bold the label at the top of the first page.
+    - Use italics within reference list entries as needed.
+18. **Final Checks:**
+    - Check the page order (title page, text, reference list).
+    - Ensure accurate and appropriate use of headings.
+    - Follow assignment instructions; instructor guidelines supersede APA Style.
+    - Tips for better writing, including seeking feedback, budgeting time, using spell-check, proofreading aloud, and consulting writing centers.
+
+The guidelines aim to ensure consistency and clarity in APA-style papers, covering various elements from formatting to content presentation. Students are encouraged to consult their instructors for specific guidelines and requirements.
 
 ### APA Citations
 
@@ -300,7 +315,6 @@ APA (American Psychological Association) citation style is commonly used in the 
    - **Example:**
      - Author, A. A. (Year). Title of article. *Title of Journal, volume number*(issue number), page range. DOI or URL
 
+[**APA Reference Examples**](https://apastyle.apa.org/style-grammar-guidelines/references/examples)
+
 APA citation style is designed to provide clear and consistent documentation of sources, allowing readers to locate and verify the information. Following the guidelines ensures ethical writing practices and gives proper credit to the original authors.
-
-APA format is regularly updated, and it's essential to consult the latest edition of the [APA Guidlines](https://www.apa.org/research-practice/standards-guidelines) for specifics, and any changes. Adhering to APA guidelines ensures consistency and clarity in academic writing and facilitates proper citation and attribution of sources.
-
