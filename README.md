@@ -10,6 +10,7 @@
 * [Systemic Factors](#systemic-factors)
 * [Psychology of Personality](#psychology-of-personality)
 * [Social Psychology](#social-psychology)
+* [Diagnoses](#diagnoses)
 * [Specializations](#specializations)
 * [Employment](#employment)
 
@@ -241,6 +242,24 @@ Human psychology is shaped by a complex interplay of various influences, and und
 - **Conformity**: Conformity is the tendency to adjust behavior or opinions to align with those of a group, often due to social pressure, as observed in Asch's conformity experiments.
 - **Cognitive Dissonance**: Cognitive dissonance arises when individuals experience discomfort due to conflicting beliefs or attitudes, leading them to resolve the conflict through various means.
 - **Attributions**: Attributions involve the explanations people give for the causes of events or behaviors, distinguishing between internal (personal factors) and external (situational factors) attributions.
+
+## Diagnoses
+
+**DSM-5 Disorders Categories**:
+
+* **Neurodevelopmental disorders**: Autism spectrum disorder, Schizophrenia spectrum and other psychotic disorders
+* **Bipolar and related disorders**: Bipolar I disorder
+* **Depressive disorders**: Major depressive disorder
+* **Anxiety disorders**: Panic disorder, Obsessive-compulsive disorder, Posttraumatic stress disorder, Dissociative amnesia
+* **Somatic symptom and related disorders**: Illness anxiety disorder
+* **Feeding and eating disorders**: Anorexia nervosa, Enuresis (bed-wetting)
+* **Sleep-wake disorders**: Narcolepsy
+* **Sexual dysfunctions**: Erectile disorder, Gender dysphoria in adolescents and adults
+* **Disruptive, impulse-control, and conduct disorders**: Pyromania
+* **Substance-related and addictive disorders**: Alcohol use disorder
+* **Neurocognitive disorders**: Mild neurocognitive disorder (dementia)
+* **Personality disorders**: Borderline personality disorder
+* **Paraphilic disorders**: Exhibitionist disorder
 
 ## Specializations
 | Divisions of Psychology | [According to APA](http://www.apa.org/about/division) | 
